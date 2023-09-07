@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  
+}
+
+.container {
+  margin: 50px;
+}
+
+.search {
+  color: lightseagreen;
+  background-color: rgb(235, 238, 242);
+  width: 135px;
+  border: solid 2px;
+  border-radius: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  padding: 3px;
+}
+
+.plus {
+  margin: 10px 0px;
+  padding: 2px;
+  color: white;
+  background-color: rgb(37, 202, 161);
+  height: 35px;
+  width: 35px;
+  border: 0;
+  border-radius: 50%;
+  font-size: larger;
+}
+
+.create {
+    padding: 5px;
+  color: white;
+  background-color: #2b78e4;
+  width: 180px;
+  height: 35px;
+  font-size:medium;
+  box-shadow: 3px 3px black;
+}
